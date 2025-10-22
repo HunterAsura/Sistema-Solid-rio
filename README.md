@@ -232,7 +232,7 @@ res.json(solicitacoes);
 
 ## ▶️ Execução
 ```bash
-git clone https://github.com/HunterAsura/sistema-solidario.git
+git clone https://github.com/HunterAsura/sistema-solid-rio.git
 cd sistema-solidario/api
 npm install
 npm run dev
